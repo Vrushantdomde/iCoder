@@ -1,0 +1,5 @@
+classes in bootstarp
+
+1. d-flex justify-content-center align-items-center
+
+2. order-md-2
